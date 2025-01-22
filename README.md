@@ -166,3 +166,4 @@ The CSS is embedded within the <style> tags and defines the webpage's layout and
 Global Reset:
 The * selector removes default padding and margin from all elements (margin: 0; padding: 0) and ensures consistent box-sizing with `box-sizing'
 **OUTPUT**:
+![Image](https://github.com/user-attachments/assets/19c85072-faeb-4680-8344-a884abcc7141)
